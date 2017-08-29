@@ -1,17 +1,19 @@
 {
-	"name": "fcc-timestamp-microservice",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"engines": {
-		"node": "4.4.5"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/theednaffattack/boilerplate-npm"
-	}
+  "name": "fcc-timestamp-microservice",
+  "dependencies": {
+    "express": "^4.14.0",
+    "urldecode": "^1.0.1",
+    "moment": "^2.18.1"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theednaffattack/boilerplate-npm"
+  }
 }
