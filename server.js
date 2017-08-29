@@ -8,6 +8,8 @@
 var fs = require('fs');
 var express = require('express');
 var app = express();
+var decode = require('urldecode');
+const moment = require('moment');
 
 if (!process.env.DISABLE_XORIGIN) {
   app.use(function(req, res, next) {
@@ -37,6 +39,37 @@ app.route('/')
     .get(function(req, res) {
 		  res.sendFile(process.cwd() + '/views/index.html');
     })
+  
+app.route('/api/1/:timestamp')
+    .get(function(req, res) {
+  console.log(req.params.timestamp)
+  console.log(req.params.timestamp)
+
+  
+  const timeObj = {
+    "unix": null,
+    "natural": null
+  };
+  
+  if (moment(req.params.timestamp).unix()) {
+    return res.json({
+        "unix": moment(req.params.timestamp).unix(),
+        "natural": moment(req.params.timestamp).format("MMMM DD, YYYY")
+      });
+  } else {
+    return res.json({
+        "unix": null,
+        "natural": null
+      });
+  }
+		  
+    })
+  
+app.route('/help')
+    .get(function(req, res) {
+		  res.sendFile(process.cwd() + '/views/help.html');
+    })
+
 
 // Respond not found to all the wrong routes
 app.use(function(req, res, next){
