@@ -37,6 +37,18 @@ app.route('/')
     .get(function(req, res) {
 		  res.sendFile(process.cwd() + '/views/index.html');
     })
+  
+app.route('/api/1/:timestamp')
+    .get(function(req, res) {
+  console.log(req.params.timestamp)
+		  res.json(req.params.timestamp);
+    })
+  
+app.route('/help')
+    .get(function(req, res) {
+		  res.sendFile(process.cwd() + '/views/help.html');
+    })
+
 
 // Respond not found to all the wrong routes
 app.use(function(req, res, next){

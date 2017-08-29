@@ -1,5 +1,5 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "fcc-timestamp-microservice",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,6 +12,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/theednaffattack/boilerplate-npm"
 	}
 }
