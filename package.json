@@ -1,17 +1,21 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"engines": {
-		"node": "4.4.5"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
+  "name": "asparism Request Header Parser Microservice",
+  "dependencies": {
+    "express": "^4.16.2",
+    "os": "0.1.1",
+    "request-ip": "2.0.2",
+    "ip": "1.1.5",
+    "express-useragent": "1.0.8"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asparism/Request-Header-Parser-Microservice.git"
+  }
 }
