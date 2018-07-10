@@ -1,35 +1,16 @@
-/****** Main Styling ******/
-
+/* the 'body' selector is required for the tests to pass */
+/* You can change the style attributes if you want */
 body {
-	font-family: 'Roboto', sans-serif;
-	font-size: 16px;
-	color: #222;
-	background-color: #ECF0F1;
-	text-align: center;
+  background-color: #222;
+  color: #ddd;
+  text-align: center;
+  font-family: sans-serif;
 }
 
-.container {
-	padding: 0;
-	margin-top: 40px;
+h1 {
+  font-size: 4em;
 }
 
-.footer {
-	margin-top: 60px;
-}
-
-ol {
-	list-style-position: inside;
-}
-ul {
-	list-style-type: none;
-}
-
-a {
-	color: #2574A9;
-}
-/****** Logo Div Styling ******/
-
-img {
-	margin: 20px auto 0 auto;
-	display: block;
+input[type=text], label {
+  margin-bottom: 8px;
 }
