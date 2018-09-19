@@ -2,8 +2,12 @@
 	"author": "Ewelina",
 	"name": "fcc-learn-npm-package-json",
 	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "freecodecamp", "related", "words" ],
+	"license": "MIT",
+	"version": "1.2",
 	"dependencies": {
-		"express": "^4.14.0"
+		"moment": "version",
+		"version": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
