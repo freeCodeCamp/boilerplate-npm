@@ -11,6 +11,7 @@
 	"engines": {
 		"node": "8.11.2"
 	},
+	"author": "Jane Doe",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
