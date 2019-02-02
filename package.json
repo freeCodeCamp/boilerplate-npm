@@ -3,6 +3,8 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"author":"kp",
+	"description":"learning service",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
