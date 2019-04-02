@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"description": "A project that does something awesome",
 	"author": "Jane Doe",
 	"main": "server.js",
 	"scripts": {
