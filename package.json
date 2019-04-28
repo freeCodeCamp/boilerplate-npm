@@ -10,9 +10,10 @@
 	"engines": {
 		"node": "8.11.2"
 	},
+	"author": "Kndarp Patel",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Kndarp Patel",
+	
 }
