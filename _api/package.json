@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "IcarusTheFly",
+	"description": "A part of FCC Apis and Microservices certification",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
