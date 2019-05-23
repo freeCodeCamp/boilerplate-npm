@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "IcarusTheFly",
 	"description": "A part of FCC Apis and Microservices certification",
+	"keywords": ["freecodecamp", "testkeyword"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
