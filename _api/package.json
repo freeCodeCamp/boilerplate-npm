@@ -3,6 +3,7 @@
 	"author": "IcarusTheFly",
 	"description": "A part of FCC Apis and Microservices certification",
 	"keywords": ["freecodecamp", "testkeyword"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
