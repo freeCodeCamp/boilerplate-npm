@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+  "description": "Fcc",
+  "version": "2.10.2",
+  "author": "Matias Arocena",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,5 +16,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "license": "MIT",
+  "keywords": ["learning", "node", "freecodecamp"]
 }
