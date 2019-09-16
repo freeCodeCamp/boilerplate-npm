@@ -13,5 +13,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": {
+		"name": "Ari"
 }
