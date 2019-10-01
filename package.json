@@ -1,4 +1,5 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "alex"
+	"name": "test",
+	"author": "alex",
+	"description":"description"
 }
