@@ -24,7 +24,7 @@ if (!process.env.DISABLE_XORIGIN) {
 
 app.use('/public', express.static(process.cwd() + '/public'));
 
-app.route('/api/package.json')
+app.route('/_api/package.json')
   .get(function(req, res, next) {
     console.log('requested');
     fs.readFile(__dirname + '/package.json', function(err, data) {
