@@ -2,6 +2,7 @@
 	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"author": "Ahmad",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
