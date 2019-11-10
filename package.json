@@ -4,10 +4,11 @@
 	"author": "Ahmad",
 	"description": "A project that does something awesome",
 	"keywords": [ "descriptive", "related", "freecodecamp" ],
-	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"license": "MIT",
+	
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
