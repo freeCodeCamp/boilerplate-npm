@@ -1,6 +1,7 @@
 {
+	"author": "Shubham Tiwari",
 	"name": "fcc-learn-npm-package-json",
-	"author": "shubham",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
