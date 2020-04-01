@@ -1,2 +1,4 @@
 [core]
 	excludesfile = /etc/.gitignore-global
+[push]
+	default = matching

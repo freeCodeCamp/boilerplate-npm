@@ -10,6 +10,7 @@
 	"engines": {
 		"node": "8.11.2"
 	},
+  "description":"Learning API",
 	"author": "Melanie Salzman",
 	"repository": {
 		"type": "git",
