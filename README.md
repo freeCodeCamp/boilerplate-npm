@@ -1,2 +1,1 @@
-# boilerplate-npm
-A boilerplate for the freeCodeCamp curriculum.
+# Backend Challenges boilerplate - package.json
