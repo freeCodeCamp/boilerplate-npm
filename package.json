@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Trista Lanette Pollard",
+	"description": "A project about Npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
