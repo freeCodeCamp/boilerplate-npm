@@ -1,17 +1,22 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Abid Sayyad",
-  "description":"Node, express and mongo DB example project",
-  "keywords": ["freecodecamp", "nodejs", "express", "mongo db"],
-  "license": "MIT",
-  "version":"1.0.0",
+	"author": "Abid Sayyad",
+	"description": "Node, express and mongo DB example project",
+	"keywords": [
+		"freecodecamp",
+		"nodejs",
+		"express",
+		"mongo db"
+	],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0",
-    "body-parser": "^1.19.0"
+		"body-parser": "^1.19.0"
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node server.js PORT=3000"
 	},
 	"engines": {
 		"node": "8.11.2"

@@ -143,7 +143,8 @@ app.use(function (err, req, res, next) {
   }
 });
 
-app.listen(process.env.PORT, function () {
-  console.log("Node.js listening ...");
+var PORT = process.env.PORT || 3000;
+app.listen(3000, function () {
+  console.log("Node.js listening on " + PORT);
   console.log("Hello World");
 });
