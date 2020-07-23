@@ -1,12 +1,12 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Pundreek Saurabh Srivastava",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node server.js",
+      		"author": "Pundreek Saurabh Srivastava"
 	},
 	"engines": {
 		"node": "8.11.2"
