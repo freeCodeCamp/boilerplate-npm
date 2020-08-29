@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sharmi",
-	"description": "test",
+	"description": "Challang 2 freecodecamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
