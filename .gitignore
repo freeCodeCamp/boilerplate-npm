@@ -1,6 +1,3 @@
-[core]
-	excludesfile = /etc/.gitignore-global
-
 ug.log*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
