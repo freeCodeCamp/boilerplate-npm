@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author":"Abhay Raj Singh"
+	"author":"Abhay Raj Singh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
