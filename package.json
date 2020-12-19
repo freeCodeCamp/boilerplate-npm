@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "tom83615",
+	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp", "npm"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,5 +16,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"license": "MIT",
+	"version": "1.0.0"
 }
