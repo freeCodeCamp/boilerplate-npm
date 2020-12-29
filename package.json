@@ -1,5 +1,14 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "sahilrider",
+	"description": "let me learn.",
+	"license": "MIT",
+	"version": "1.0.0",
+	"keywords": [
+		"nodejs",
+		"mongodb",
+		"freecodecamp"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
