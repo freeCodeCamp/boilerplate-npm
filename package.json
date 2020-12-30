@@ -3,6 +3,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	author: "alex rangel" , 
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
