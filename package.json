@@ -3,6 +3,7 @@
 	"author": "Harrison King",
 	"description": "A project that will get me through freeCodeCamp.",
 	"keywords": ["freecodecamp","boilerplate"],
+	"license": "freeCodeCamp",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
