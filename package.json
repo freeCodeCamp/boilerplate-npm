@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author": "Bruno Costa",
-	"description": "This is my project, which is awesome."
+	"description": "This is my project, which is awesome.",
+	"keywords": ["freecodecamp", "codingchallenge"]
 }
