@@ -14,5 +14,6 @@
 	"author": "Bruno Costa",
 	"description": "This is my project, which is awesome.",
 	"keywords": ["freecodecamp", "codingchallenge"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "1.0.0"
 }
