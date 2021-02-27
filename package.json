@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tammy Batubo",
+	"description": "learning on FCC",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
