@@ -1,9 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Amulya Ratna Mishra",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Amulya Ratna Mishra",
+	
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
