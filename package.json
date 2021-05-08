@@ -1,5 +1,6 @@
 {
-	"name": "mounir-hadj-yahia",
+	"name": "npm-app",
+	"author": "mounir",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
