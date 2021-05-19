@@ -1,14 +1,18 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
+	"dependencies": 
+	{
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
-	"scripts": {
+	"scripts": 
+	{
 		"start": "node server.js"
 	},
-	"repository": {
+	"repository":
+	{
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author":"Pawan Pyakurel",
 }
