@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "Petar Ivanov",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -10,6 +11,5 @@
   "repository": {
     "type": "git",
     "url": "https://idontknow/todo.git"
-  },
-  "author": "Petar Ivanov"
+  }
 }
