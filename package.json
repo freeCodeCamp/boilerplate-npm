@@ -1,5 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author" : "Peter Muth",
+	"description" : "tutorial for node.js",
+	"keywords" : ["nodejstutorial","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
