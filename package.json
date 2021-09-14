@@ -1,18 +1,24 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "foobar",
+	"author": "Chema",
+	"description": "A project that does something awesome",
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
+	"license": "MIT",
+	"version": "4.14.0",
 	"dependencies": {
-	  "express": "^4.14.0"
+		"express": "4.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
-	  "start": "node server.js"
-	},
-	"engines": {
-	  "node": "8.11.2"
+		"start": "node server.js"
 	},
 	"repository": {
-	  "type": "git",
-	  "url": "https://idontknow/todo.git"
+		"type": "git",
+		"url": "https://idontknow/todo.git"
 	}
-  }
+}
