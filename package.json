@@ -1,6 +1,7 @@
 {
 	"author": "Luiggy Macias",
 	"description": "This is a project to learn how to manage packages with NPM",
+	"keywords": ["learning", "in", "freeCodeCamp"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
