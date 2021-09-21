@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"author": "abdulms",
 	"scripts": {
 		"start": "node server.js"
 	},
