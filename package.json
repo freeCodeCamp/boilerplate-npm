@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Christian Sanchez",
+	"description": "This is a FreeCodeCamp tutorial",
+	"keywords": ["Tutorial","Learning","freecodecamp"],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
