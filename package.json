@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "Matt Bokovitz",
+  "location": "Downingtown",
   "dependencies": {
     "express": "^4.14.0"
   },
