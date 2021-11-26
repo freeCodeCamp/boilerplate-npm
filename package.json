@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"auhor": "duy vo",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
