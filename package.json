@@ -1,4 +1,7 @@
 {
+	"author": "Suresh, Parajui",
+	"username": "sparajuli"
+	
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
