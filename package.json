@@ -6,6 +6,7 @@
 	},
 	"description": "an awesome project",
 	"main": "server.js",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
 	"scripts": {
 		"start": "node server.js"
 	},
