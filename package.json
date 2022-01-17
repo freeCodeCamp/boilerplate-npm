@@ -4,6 +4,7 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+	"description": "an awesome project",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
