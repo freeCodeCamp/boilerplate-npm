@@ -2,11 +2,16 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Marko Vučić",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.17.2"
 	},
 	"description": "an awesome project",
 	"main": "server.js",
-	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"keywords": [
+		"descriptive",
+		"related",
+		"words",
+		"freecodecamp"
+	],
 	"scripts": {
 		"start": "node server.js"
 	},
