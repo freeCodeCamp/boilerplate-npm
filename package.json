@@ -3,7 +3,7 @@
 	"author": "Marko Vučić",
 	"dependencies": {
 		"express": "^4.17.2",
-		"moment": "^2.14.0"
+		"moment": "~2.10.2"
 	},
 	"description": "an awesome project",
 	"main": "server.js",
