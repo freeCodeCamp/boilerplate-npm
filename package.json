@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
+  "author": "Arik Sasmita",
+  "dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
