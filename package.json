@@ -1,6 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kah Pong",
+	"description": "This is my first node.js self training.",
+	"keywords": ["freecodecamp", "croissant", "anpan"],
+	"license": "Private",
+	"version": "1.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,6 +16,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-
-	
 }
