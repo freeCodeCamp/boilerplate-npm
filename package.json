@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kah Pong",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -10,7 +11,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	},
+	}
 
-	"author": "Kah Pong"
+	
 }
