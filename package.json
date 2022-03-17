@@ -1,6 +1,6 @@
 {
-	"author": "Jose Sanabria",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Jose Sanabria",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
