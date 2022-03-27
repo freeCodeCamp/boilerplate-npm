@@ -1,6 +1,6 @@
 {	
 	"name": "fcc-learn-npm-package-json",
-	"author": "panda",
+	"author": "panda kungfu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
