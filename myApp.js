@@ -23,6 +23,12 @@ app.get("/", function(req, res) {
     res.sendFile(__dirname + "/views/index.html");
   });
 
+app.get("/:word/echo", function(req, res) {
+    res.json({'echo': req.params.word});
+});
+
+
+
 app.get('/json', function(req, res) {
     const message = {'message': 'Hello json'} 
     if (process.env.MESSAGE_STYLE == 'uppercase') {
