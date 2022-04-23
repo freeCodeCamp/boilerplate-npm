@@ -9,6 +9,11 @@
 	"keywords": [ "freecodecamp", "related", "freecodecamp" ],
 	"license": "MIT",
 	"version": "1.2.0",
+	"dependencies": {
+		"package-name": "moment",
+		"express": "2.14.0"
+	  }
+	  
 	"scripts": {
 		"start": "node server.js"
 	},
