@@ -7,6 +7,7 @@
 	"main": "server.js",
 	"description": "A project that does something awesome",
 	"keywords": [ "freecodecamp", "related", "freecodecamp" ],
+	"license": "MIT",
 	"scripts": {
 		"start": "node server.js"
 	},
