@@ -12,8 +12,7 @@
 	"dependencies": {
 		"package-name": "moment",
 		"express": "2.14.0"
-	  }
-	  
+	  },
 	"scripts": {
 		"start": "node server.js"
 	},
