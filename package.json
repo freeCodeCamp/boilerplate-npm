@@ -6,6 +6,7 @@
 	},
 	"main": "server.js",
 	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words" ],
 	"scripts": {
 		"start": "node server.js"
 	},
