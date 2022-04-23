@@ -15,14 +15,15 @@ app.get("/", function(req, res) {
     res.sendFile(__dirname + "/views/index.html");
   });
 
-  app.get('/json', function(req, res) {
-      const message = {'message': 'Hello json'} 
-      if (process.env.MESSAGE_STYLE == 'uppercase') {
-        res.json(message.toUpperCase());}
-        else {
-            res.json(message);
-        }
-    });
+app.get('/json', function(req, res) {
+    const message = {'message': 'Hello json'} 
+    if (process.env.MESSAGE_STYLE == 'uppercase') {
+        return res.json(message.toUpperCase());
+    }
+    else {
+        return res.json(message);
+    }
+});
 
 
  module.exports = app;
