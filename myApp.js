@@ -4,9 +4,9 @@ var app = express();
 
 console.log('Hello Express')
 
-app.get('/', function(req, res) {
-    res.sendFile('/views/index.html');
-  })
+app.get('/', 
+    res.sendFile('./views/index.html');
+  )
 
 
 
