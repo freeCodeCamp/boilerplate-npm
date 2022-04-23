@@ -1,1 +1,0 @@
-MESSAGE_STYLE=uppercase
