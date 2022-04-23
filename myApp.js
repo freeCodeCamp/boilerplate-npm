@@ -4,10 +4,10 @@ var app = express();
 
 console.log('Hello Express')
 
-app.get('/', 
-    res.sendFile('./views/index.html');
-  )
 
+app.get("/", function(req, res) {
+    res.sendFile(__dirname + "/public/index.html");
+  });
 
 
 
