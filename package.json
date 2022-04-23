@@ -3,7 +3,7 @@
 	"author": "ng",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "^2.14.0",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"description": "A project that does something awesome",
