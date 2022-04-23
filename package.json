@@ -1,20 +1,14 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"author": "ng",
+	"name": "fcc-learn-node-with-express",
+	"version": "0.1.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"body-parser": "^1.15.2",
+		"cookie-parser": "^1.4.3",
+		"fcc-express-bground": "https://github.com/freeCodeCamp/fcc-express-bground-pkg.git"
 	},
 	"main": "server.js",
-	"description": "A project that does something awesome",
-	"keywords": [ "freecodecamp", "related", "freecodecamp" ],
-	"license": "MIT",
-	"version": "1.2.0",
-
 	"scripts": {
 		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
 	}
 }
