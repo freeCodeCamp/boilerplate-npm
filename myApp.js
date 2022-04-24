@@ -2,10 +2,15 @@ var express = require('express');
 var app = express();
 var dotenv = require('dotenv');
 var bodyParser = require('body-parser');
+var mongodb = require('mongodb');
+var mongoose = require('mongoose');
 
 require('dotenv').config();
 
-app.use(function middleware(req, res, next) {
+mongoose.connect(process.env.MONGO_URI,
+     { useNewUrlParser: true, useUnifiedTopology: true });
+
+     app.use(function middleware(req, res, next) {
     // Do something
     var string = req.method + " " + req.path + " - " + req.ip;
     // Call the next function in line:
