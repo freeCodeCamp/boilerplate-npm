@@ -1,6 +1,7 @@
 var express = require('express');
 var app = express();
 var dotenv = require('dotenv');
+var bodyParser = require('body-parser');
 
 require('dotenv').config();
 
@@ -55,5 +56,9 @@ app.get("/now",
       });
     }
   );
+
+
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
 
  module.exports = app;
