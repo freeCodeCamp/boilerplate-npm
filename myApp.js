@@ -32,11 +32,12 @@ app.route('/name')
     .get((req,res)=>
         res.json({name:req.query.first +
              ' ' + req.query.last}))
-    .post((req,res)=>{
-        res.json({name:req.body.first +
-             ' ' + req.body.last})
-    }
-    )
+
+app.post("/name", function(req, res) {
+    // Handle the data in the request
+    var string = req.body.first + " " + req.body.last;
+    res.json({ name: string });
+});
 
 
 app.get('/json', function(req, res) {
