@@ -7,13 +7,13 @@ var mongoose = require('mongoose');
 
 require('dotenv').config();
 
-const URI = process.env.MONGO_URI
+const URI = process.env.MONGO_URI;
 
 mongoose.connect(URI,
      { useNewUrlParser: true, 
        useUnifiedTopology: true });
 
-     app.use(function middleware(req, res, next) {
+app.use(function middleware(req, res, next) {
     // Do something
     var string = req.method + " " + req.path + " - " + req.ip;
     // Call the next function in line:
