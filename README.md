@@ -2,6 +2,6 @@
 mongo db 
 0L9ZvGIwlFTt9yAb
 
-mongodb+srv://nes:s1P1cuMV89J6hoar@cluster0.eudwv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+mongodb+srv://nes:0L9ZvGIwlFTt9yAb@cluster0.eudwv.mongodb.net/test?retryWrites=true
 
 
