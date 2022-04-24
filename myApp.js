@@ -8,13 +8,7 @@ var mongoose = require('mongoose');
 require('dotenv').config();
 
 const URI = process.env.MONGO_URI
-console.log(useImperativeHandle(
-  first,
-  () => {
-    second
-  },
-  [third],
-))
+
 mongoose.connect(URI,
      { useNewUrlParser: true, 
        useUnifiedTopology: true });
