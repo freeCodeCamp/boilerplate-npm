@@ -33,9 +33,12 @@ app.route('/name')
         res.json({name:req.query.first +
              ' ' + req.query.last}))
 
+app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
+
 app.post("/name", function(req, res) {
     // Handle the data in the request
-    var string = req.body.first + " " + req.body.last;
+    const string = req.body.first + " " + req.body.last;
     res.json({ name: string });
 });
 
@@ -64,7 +67,5 @@ app.get("/now",
   );
 
 
-app.use(bodyParser.urlencoded({ extended: false }));
-app.use(bodyParser.json());
 
  module.exports = app;
