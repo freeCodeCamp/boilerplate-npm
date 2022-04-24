@@ -7,7 +7,7 @@ var mongoose = require('mongoose');
 require('dotenv').config();
 
 const URI = process.env.MONGO_URI;
-mongoose.connect(URI);
+mongoose.connect(URI, { useNewUrlParser: true });
 
 app.use(function middleware(req, res, next) {
     // Do something
