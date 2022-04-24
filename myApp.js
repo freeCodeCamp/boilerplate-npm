@@ -29,8 +29,8 @@ app.get("/:word/echo", function(req, res) {
 
 app.route('/name')
     .get((res,req)=>
-        res.json({'name':req.query.first +
-             '' + req.query.last}));
+        res.json({name:req.query.first +
+             ' ' + req.query.last}));
 
 
 app.get('/json', function(req, res) {
