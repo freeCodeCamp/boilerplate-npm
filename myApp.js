@@ -43,10 +43,13 @@ var createAndSavePerson = function(done) {
     });
   };
 
-const findOneByFood = (food, done) => {
-  done(null /*, data*/);
-};
-
+  var findOneByFood = function(food, done) {
+    Person.findOne({favoriteFoods: food}, function (err, data) {
+      if (err) return console.log(err);
+      done(null, data);
+    });
+  };
+  
 const findPersonById = (personId, done) => {
   done(null /*, data*/);
 };
