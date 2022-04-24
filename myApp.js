@@ -27,6 +27,10 @@ app.get("/:word/echo", function(req, res) {
     res.json({'echo': req.params.word});
 });
 
+app.route('/name')
+    .get((res,req)=>
+        res.json({'name':req.query.firstname +
+             '' + req.query.lastname}));
 
 
 app.get('/json', function(req, res) {
