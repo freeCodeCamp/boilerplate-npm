@@ -1,16 +1,31 @@
-/* the 'body' selector is required for the tests to pass */
-/* You can change the style attributes if you want */
 body {
-  background-color: #222;
-  color: #ddd;
-  text-align: center;
-  font-family: sans-serif;
+	color: #222;
+	background-color: #eee;
+	font-family: sans-serif;
+	text-align: center;
 }
-
+#tn {
+	margin-top:30px;
+}
 h1 {
-  font-size: 4em;
+	margin-bottom: 40px;
 }
-
-input[type=text], label {
-  margin-bottom: 8px;
+#tn span {
+	font-weight: bold;
+}
+.pane {
+	border: solid 1px #999;
+	border-radius: 10px;
+	max-width: 650px;
+	margin: 10px auto;
+	padding: 10px;
+	box-sizing: border-box;
+}
+.specs {
+	font-family: monospace;
+	font-size: 1.1em;
+	margin: 10px auto;
+	text-align: left;
+	padding-left: 10px;
+	color: #555;
 }

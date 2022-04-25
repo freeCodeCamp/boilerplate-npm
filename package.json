@@ -1,26 +1,19 @@
 {
-    "name": "fcc-mongo-mongoose-challenges",
-    "version": "0.0.1",
-    "description": "A boilerplate project",
-    "main": "server.js",
-    "scripts": {
-        "start": "node server.js"
-    },
-    "dependencies": {
-        "body-parser": "^1.15.2",
-        "dotenv": "^8.2.0",
-        "express": "^4.12.4",
-		"mongodb": "~3.6.0",
-		"mongoose": "~5.4.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/freeCodeCamp/boilerplate-mongomongoose.git"
-    },
-    "keywords": [
-        "node",
-        "mongoose",
-        "express"
-    ],
-    "license": "MIT"
+  "name": "automated-testing-app",
+  "version": "0.0.1",
+  "description": "Boilerplate for the Quality Assurance and Testing with Chai challenges",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "1.19.0",
+    "chai": "4.3.4",
+    "chai-http": "4.3.0",
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "mocha": "9.0.3",
+    "zombie": "6.1.4"
+  },
+  "license": "MIT"
 }
