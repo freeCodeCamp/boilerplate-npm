@@ -9,6 +9,8 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://idontknow/todo.git",
+		"author": "Jane Doe"
+		
 	}
 }
