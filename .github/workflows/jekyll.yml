@@ -2,9 +2,9 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ gomix ]
+    branches: [ master ]
   pull_request:
-    branches: [ gomix ]
+    branches: [ master ]
 
 jobs:
   build:
