@@ -1,6 +1,9 @@
 {
+	"license":"MIT",
 	"author": "Kamogelo",
 	"description":"The project is a backend project",
+	"keywords":["backend-api", "freecodecamp","backend-programming"],
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
