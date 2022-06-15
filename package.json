@@ -16,5 +16,7 @@
 "description":"Nuevo proyecto de aprendizaje de NodeJs",
 "email":"kevoru@gmail.com",
 "url":"https://github.com/kevoru18/boilerplate-npm",
-"keywords": ["Database","Related","freecodecamp"]
+"keywords": ["Database","Related","freecodecamp"],
+"license":"MIT"
+
 }
