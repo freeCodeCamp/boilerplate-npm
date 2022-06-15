@@ -10,5 +10,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
+	},
+	"author": {
+		"name":"Kevin Rubí",
+		"email": "kevoru@gmail.com",
+		"url": "https://github.com/kevoru18/boilerplate-npm.git"
 	}
 }
