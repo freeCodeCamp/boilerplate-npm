@@ -1,5 +1,6 @@
 {
 	"author": "Adam Steinbach",
+	"description": "this is my first public npm project",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.18.1"
