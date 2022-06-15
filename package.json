@@ -2,7 +2,7 @@
 	"author": "Adam Steinbach",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.18.1"
 	},
 	"main": "server.js",
 	"scripts": {
