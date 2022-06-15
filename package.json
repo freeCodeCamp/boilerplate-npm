@@ -17,6 +17,6 @@
 "email":"kevoru@gmail.com",
 "url":"https://github.com/kevoru18/boilerplate-npm",
 "keywords": ["Database","Related","freecodecamp"],
-"license":"MIT"
-
+"license":"MIT",
+"version":"1.2.0"
 }
