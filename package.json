@@ -1,9 +1,5 @@
 {
-	"author": {
-		"name":"Kevin Rubí",
-		"email": "kevoru@gmail.com",
-		"url": "https://github.com/kevoru18/boilerplate-npm.git"
-	},
+	"author":"Kevin Rubí", 
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
