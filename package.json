@@ -1,5 +1,6 @@
 {
-  "keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
+	"license": "MIT",
+    "keywords": [ "descriptive", "related", "words" ,"freecodecamp"],
 	"description": "A project that does something awesome",
 	"author": "Omar Labib",
 	"name": "fcc-learn-npm-package-json",
