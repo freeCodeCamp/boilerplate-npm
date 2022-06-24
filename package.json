@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author" : "adimasmudi",
-	"description": "A project build by Masmudi and do something awesome wkwk"
+	"description": "A project build by Masmudi and do something awesome wkwk",
+	"keywords": [ "descriptive", "related", "words" ]
 }
