@@ -9,8 +9,8 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/fernandocotadev/boilerplate-npm.git"
 	},
 	"author": "fernando",
-	"keywords": "[freecodecamp]"
+	"keywords": ["freecodecamp"]
 }
