@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "fernando"
+	"author": "fernando",
+	"keywords": "[freecodecamp]"
 }
