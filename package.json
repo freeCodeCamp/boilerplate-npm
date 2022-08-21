@@ -4,11 +4,12 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"author": "GioF71",
 	"scripts": {
 		"start": "node server.js"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/GioF71/freecodecamp-boilerplate-npm.git"
 	}
 }
