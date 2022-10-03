@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "AZA Expédit",
+	"author": "Expedit",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
