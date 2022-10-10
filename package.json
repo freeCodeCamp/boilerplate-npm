@@ -1,9 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
+  "author": "Vadim Gnezdyshkin",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-  "author": "Vadim Gnezdyshkin",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
