@@ -1,0 +1,2 @@
+# Tell Linguist to exclude HTML files to help Replit language detection.
+*.html linguist-vendored
