@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "This is a demo project for learning npm package.json",
 	"keywords": ["freeCodeCamp", "npm", "package.json"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0",
 		"nodemon": "^2.0.20"
