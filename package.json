@@ -1,6 +1,7 @@
 {
 	"author": "deependra kumar",
 	"name": "fcc-learn-npm-package-json",
+	"description": "This is a demo project for learning npm package.json",
 	"dependencies": {
 		"express": "^4.14.0",
 		"nodemon": "^2.0.20"
