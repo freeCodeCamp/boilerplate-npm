@@ -6,7 +6,7 @@
 	"license": "MIT",
 	"version": "1.2.0",
 	"dependencies": {
-		"@freecodecamp/example":"1.1.0",
+		"@freecodecamp/example":"^1.2.13",
 		"express": "^4.14.0",
 		"nodemon": "^2.0.20"
 	},
