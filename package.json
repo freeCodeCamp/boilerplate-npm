@@ -4,6 +4,7 @@
 	"description": "This is a demo project for learning npm package.json",
 	"keywords": ["freeCodeCamp", "npm", "package.json"],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0",
 		"nodemon": "^2.0.20"
