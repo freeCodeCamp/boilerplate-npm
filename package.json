@@ -3,6 +3,7 @@
 	"description": "this is a simple example of a simple application",
 	"keywords": ["basic", "json", "npm", "nodejs", "package", "freecodecamp"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
