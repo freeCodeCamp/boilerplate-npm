@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	// test for free code camp
+	"author": "Yi-Huan  Chen",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
