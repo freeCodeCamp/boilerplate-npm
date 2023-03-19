@@ -1,5 +1,6 @@
 {
   "author": "Finn",
+  "description": "A project for testing NPM dependencies",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
