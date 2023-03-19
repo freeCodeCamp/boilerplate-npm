@@ -2,6 +2,7 @@
   "author": "Finn",
   "description": "A project for testing NPM dependencies",
   "keywords": ["Finn", "Best drummer in the galaxy", "freecodecamp"],
+  "license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
