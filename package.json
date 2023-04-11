@@ -1,5 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "author": "Swagatam Bhattacharjee",
   "dependencies": {
     "express": "^4.14.0"
   },
@@ -12,8 +13,5 @@
     "url": "https://idontknow/todo.git"
   },
   "description": "[![Run on Repl.it](https://repl.it/badge/github/freeCodeCamp/boilerplate-npm)](https://repl.it/github/freeCodeCamp/boilerplate-npm)",
-  "version": "1.0.0",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "version": "1.0.0"
 }
