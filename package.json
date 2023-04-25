@@ -1,7 +1,13 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Harshiiet Negi",
+	"description": "Working behind the scenes, this is where the machine breathes",
+	"keywords": ["beginner", "backend", "freecodecamp"],
+	"license": "MIT",
+	"version": "0.1",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"@freecodecamp/example": "~1.2.13"
 	},
 	"main": "server.js",
 	"scripts": {
