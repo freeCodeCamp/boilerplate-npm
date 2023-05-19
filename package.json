@@ -13,5 +13,6 @@
 	},
 	"author" : "Xavier Andole",
 	"description": "A project that converts strings into integers",
-	"keywords": ["strings", "integers","conversion"]
+	"keywords": ["strings", "integers","conversion"],
+	"license": "MIT"
 }
