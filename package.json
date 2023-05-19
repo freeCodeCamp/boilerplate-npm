@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"author" : "Xavier Andole",
-	"description": "A project that changes strings into integers"
+	"description": "A project that converts strings into integers",
+	"keywords": ["strings", "integers","conversion"]
 }
