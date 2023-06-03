@@ -4,6 +4,7 @@
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"author":"Divya Krishnan",
 	"scripts": {
 		"start": "node server.js"
 	},
@@ -11,5 +12,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-	"author":"Divya Krishnan "
 }
