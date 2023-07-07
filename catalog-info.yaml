@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: boilerplate-npm
+  annotations:
+    github.com/project-slug: tom83615/boilerplate-npm
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
