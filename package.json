@@ -1,5 +1,6 @@
 {
-	"name": "Ariel Ortega",
+	"name": "fcc-learn-npm-package-json",
+	"author": "Ariel Ortega",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
