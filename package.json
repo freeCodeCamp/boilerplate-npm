@@ -2,6 +2,11 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kim KAIYO0",
 	"description": "A project is for Certificates and Practices Skills",
+	"keywords": [
+		"freecodecamp",
+		"node",
+		"javascript",
+		"project"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
