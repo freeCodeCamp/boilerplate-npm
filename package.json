@@ -7,6 +7,22 @@
 		"node",
 		"javascript",
 		"project"],
+	"license": "MIT" ,
+	"licenses": [
+	{
+		"type": "Apache License 2.0"
+	},
+	{
+		"type":	"GNU"
+	},
+	{
+		"type": "MPL"
+	},
+	{
+		"type": "KIMTECH"
+	}
+],
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
