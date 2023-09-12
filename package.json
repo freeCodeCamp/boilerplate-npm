@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "author",
+	"author": "Kim KAIYO0",
+	"description": "A project is for Certificates and Practices Skills",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
