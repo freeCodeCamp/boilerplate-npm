@@ -1,5 +1,11 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Axel Sean CP",
+	"description": "A project that does something awesome",
+	"keywords": ["freecodecamp", "fun", "relatable"],
+	"license": "GHST",
+	"version": "1.0.0",
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
