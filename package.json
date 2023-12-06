@@ -10,5 +10,10 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"author": "Artur Shmaida",
+	"description": "The codeAcademyTraining",
+	"keywords": ["freecodecamp","training","node"],
+	"license":"MIT",
+	"version": "1.1.0"
 }
