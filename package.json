@@ -1,11 +1,12 @@
 {
+	"author": "Dhyani",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"main": "server.js",
+	"main": "app.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node app.js"
 	},
 	"repository": {
 		"type": "git",
