@@ -7,6 +7,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author" : "Mohit Gakre",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
