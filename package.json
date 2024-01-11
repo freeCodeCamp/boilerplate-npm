@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kareem Gaber",
+	"email": "kgaber985@gmail.com",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,4 +13,5 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
+	
 }
