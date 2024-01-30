@@ -1,0 +1,7 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    ".gitpod.yml": true
+  },
+  "workbench.colorTheme": "freeCodeCamp Dark Theme"
+}
