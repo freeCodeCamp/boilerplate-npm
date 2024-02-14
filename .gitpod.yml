@@ -1,0 +1,14 @@
+image: gitpod/workspace-node-lts
+
+ports:
+  - port: 3000
+    onOpen: open-preview
+    visibility: public
+
+tasks:
+  - init: npm install
+    command: npm run start
+
+vscode:
+  extensions:
+    - https://github.com/freeCodeCamp/freecodecamp-dark-vscode-theme/releases/download/v1.0.0/freecodecamp-dark-vscode-theme-1.0.0.vsix
