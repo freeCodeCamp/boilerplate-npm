@@ -3,6 +3,7 @@
 	"author": "Shashin Kalpajith",
 	"description": "Managing Packages with NPM",
 	"keywords": ["freecodecamp", "backend", "node", "npm"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
