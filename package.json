@@ -1,7 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"package-name": "version"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -9,6 +9,22 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"version": "1.2.0",
+	"description": "Managing Packages with NPM",
+	"devDependencies": {},
+	"keywords": [
+		"freeCodeCamp",
+		"npm",
+		"backend",
+		"api"
+	],
+	"author": "Natan",
+	"license": "MIT",
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	},
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
